@@ -11,7 +11,8 @@
 5.КОНЕЦ
 
 
-[Схема.drawio](https://github.com/user-attachments/files/34073053/default.drawio)
+<img width="1674" height="2079" alt="image" src="https://github.com/user-attachments/assets/364a7270-da31-4a6d-9f30-bc50a8d50442" />
+
 
 3. Результаты работы программы
 
